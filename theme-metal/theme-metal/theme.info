@@ -1,0 +1,6 @@
+depends=1.000
+desc=Metal Theme
+name=theme-metal
+version=2.10
+usermin=1
+webmin=1
